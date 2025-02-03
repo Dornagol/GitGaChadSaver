@@ -52,7 +52,7 @@ sudo systemctl enable gitgachad.service
 > ❌ **Ne pas utiliser si :**
 > - Tu préfères `git push` comme un peasant
 > - T'as peur de devenir trop puissant
-> - Tu met des air force en big 2025
+> - Tu met des air force one en big 2025
 
 ---
 
