@@ -63,4 +63,4 @@ sudo systemctl enable gitgachad.service
 
 ---
 
-📜 **License** : [MIT](LICENSE) *(Traduction : "Fais-en ce que tu veux, frérot")*
+📜 **License** : [MIT](LICENSE) *(Traduction : "Fais-en ce que tu veux frérot")*
