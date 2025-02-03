@@ -3,6 +3,7 @@
 <p align="center"><img src="https://socialify.git.ci/Dornagol/GitGaChadSaver/image?font=Source+Code+Pro&amp;language=1&amp;name=1&amp;owner=1&amp;pattern=Floating+Cogs&amp;pulls=1&amp;stargazers=1&amp;theme=Auto" alt="project-image"></p>
 
 <p align="center" id="description">Le bot qui fait tes push Git pendant que tu bourlingue autre chose que ton clavier 😎​</p>
+<p align="center">(Encore en phase de prép, ça arrive fort👴)</p>
 
 ## 🏋️🗿​ Pourquoi utiliser GitGaChadSaver ?
 - 🚀 Push automatique parce que tu sais pas faire
