@@ -5,11 +5,6 @@
 <p align="center" id="description">Le bot qui fait tes push Git pendant que tu bourlingue autre chose que ton clavier 😎​</p>
 <p align="center">(Encore en phase de prép, ça arrive fort👴)</p>
 
-## 🏋️🗿​ Pourquoi utiliser GitGaChadSaver ?
-- 🚀 Push automatique parce que tu sais pas faire
-- 💪 Occupe toi de te bumble bee le megatron au lieu de push
-- 😎 Zéro effort, 100% swag
-
 ```bash
 # Installation Chad Style
 git clone https://github.com/Dornagol/GitGaChadSaver
@@ -42,25 +37,9 @@ sudo systemctl enable gitgachad.service
 ### 🪟 Windows
 1. Ouvre le **Planificateur de tâches**
 2. Crée une tâche :
-   - 🔥 Nom : `"GitGaChad MVP"`
-   - ⚡ Déclencheur : `À la fermeture de session`
-   - 🦾 Action : Lancer `gitgachadsaver.exe`
-
----
-
-## 🚨 Avertissements
-> ❌ **Ne pas utiliser si :**
-> - Tu préfères `git push` comme un peasant
-> - T'as peur de devenir trop puissant
-> - Tu met des air force one en big 2025
-
----
-
-## 🤝 Rejoins la Brotherhood
-1. Lance `cargo fmt` avant de commit (hygiène de Chad)
-2. Teste sur **Linux** ET **Windows** (vrai Chad = cross-platform)
-3. Fais des PR plus balèzes que tes biceps
-
+   - Nom : `"GitGaChad MVP"`
+   - Déclencheur : `À la fermeture de session`
+   - Action : Lancer `gitgachadsaver.exe`
 ---
 
 📜 **License** : [MIT](LICENSE) *(Traduction : "Fais-en ce que tu veux frérot")*
